@@ -7,9 +7,9 @@
     <h1>BarCharge -- Providing Booze and Tits Since 1999</h1>
     <h2>(JK about the tits)</h2>
     <h3>If you wanna get smashed, leave the deets below:</h3>
-    <form action="form_processor.php">
+    <form action="form_processor.php" method="post">
       <p>
-        Name
+        Full Name
       </p>
     <input class="std_input" name="fname" type="text"/>
     <p>
@@ -34,7 +34,8 @@
     <p>
       Da Booze
     </p>
-    <textarea class="boozelist" name="booze">List what booze you want</textarea><br />
+    <textarea class="boozelist" name="booze">List what booze you want</textarea>
+    <br />
     <input class="std_input" name="submit" type="submit"/>
     </form>
   </body>
