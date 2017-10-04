@@ -1,2 +1,2 @@
 # barcharge
-Supplying liquid courage for pussies
+Supplying liquid courage so everybody can face their fears
